@@ -20,6 +20,6 @@ We use MFGAN to generate masked face images on a large-scale face dataset, Celeb
 Therefore, the Masked-CelebA dataset we constructed can be used for masked face recognition task.
 Then we open a demo dataset of Masked-CelebA, which is available to facilitate future research.Download address is as follows:
 
-Link: https://pan.baidu.com/s/1cr4d22lNmA87l38DooVkig 
+Link: https://pan.baidu.com/s/13sNxY_pl3ou_Js5yFDqa2Q 
 
-Code: 2kk5
+Code: 047o
